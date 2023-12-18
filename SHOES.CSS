@@ -1,0 +1,22 @@
+body{
+    background-color: #d69110;
+
+}
+.BOX1{
+    margin-left: 500PX;
+    border-radius: 20PX;
+    height: 200px;
+    width: 200px;
+    background-image: url("SHOES.webp");
+background-size: cover;
+}
+.HADING{
+    margin-left: 550PX;
+    border-radius: 20PX;
+    height: 50PX;
+    width: 100PX;
+    background-color: aliceblue;
+}
+/* h1{
+    color: aliceblue;
+} */
